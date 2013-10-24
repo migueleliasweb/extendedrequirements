@@ -1,0 +1,14 @@
+{
+    "name": "migueleliasweb/extended-requirements",
+    "description" : "This plugin allows the user to generate custom require scripts using the 'extra' key.",
+    "type": "composer-plugin",
+    "require": {
+        "composer-plugin-api": "1.0.0"
+    },
+    "extra" : {
+        "class" : "migueleliasweb\\ExtendedRequirements\\Requirements"
+    },
+    "autoload": {
+        "psr-0": { "" : "" }
+    }
+}
