@@ -14,8 +14,8 @@ class Requirements implements PluginInterface
         
         $Composer->getConfig()->merge(array(
             'scripts' => array(
-                "post-install-cmd" => "migueleliasweb\\ExtendedRequirements\\Scripts::postCmd",
-                "post-update-cmd" => "migueleliasweb\\ExtendedRequirements\\Scripts::postCmd"
+                "post-install-cmd" => "migueleliasweb\\extended-requirements\\Scripts::postCmd",
+                "post-update-cmd" => "migueleliasweb\\extended-requirements\\Scripts::postCmd"
             )
         ));
     }
