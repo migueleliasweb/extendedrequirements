@@ -9,6 +9,6 @@
         "class" : "migueleliasweb\\extended-requirements\\Requirements"
     },
     "autoload": {
-        "psr-0": { "" : "" }
+        "psr-0": { "migueleliasweb\\extendedrequirements" : "." }
     }
 }
