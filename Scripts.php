@@ -2,7 +2,7 @@
 
 use Composer\Script\Event;
 
-namespace migueleliasweb\ExtendedRequirements;
+namespace migueleliasweb\extendedrequirements;
 
 class Scripts
 {

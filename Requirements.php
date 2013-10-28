@@ -1,6 +1,6 @@
 <?php
 
-namespace migueleliasweb\ExtendedRequirements;
+namespace migueleliasweb\extendedrequirements;
 
 use Composer\Composer;
 use Composer\IO\IOInterface;
