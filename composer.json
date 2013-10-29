@@ -1,5 +1,5 @@
 {
-    "name": "migueleliasweb/extended-requirements",
+    "name": "migueleliasweb/extendedrequirements",
     "description" : "This plugin allows the user to generate custom require scripts using the 'extra' key.",
     "type": "composer-plugin",
     "require": {
