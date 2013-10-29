@@ -6,7 +6,7 @@
         "composer-plugin-api": "1.0.0"
     },
     "extra" : {
-        "class" : "migueleliasweb\\extended-requirements\\Requirements"
+        "class" : "migueleliasweb\\extendedrequirements\\Requirements"
     },
     "autoload": {
         "psr-0": { "migueleliasweb\\extendedrequirements" : "." }
