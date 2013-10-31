@@ -7,5 +7,15 @@
     "scripts": {
         "post-update-cmd": "migueleliasweb\\extendedrequirements\\Scripts::postCmd",
         "post-install-cmd": "migueleliasweb\\extendedrequirements\\Scripts::postCmd"
+    },
+    "extra" : {
+        "extended-script-requirements" : {
+            "Python" : "3",
+            "Java" : "2",
+            "Custom" : {
+                "InstalledVersion" : "",
+                "RequiredVersion" : ""
+            }
+        }
     }
 }
